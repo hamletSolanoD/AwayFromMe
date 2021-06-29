@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d86c37e5f32e29c438f5f0a42d8856db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - recuerdosVida_Object: {fileID: 7420913050322393961, guid: 682848612e0a1b84b83f30aa7a1b7b18,
+      type: 3}
+  - recuerdosFuerza_Object: {fileID: 1958752284657695366, guid: fa93f92577b6ef241ac1b8fa6dd2f8fd,
+      type: 3}
+  - recuerdosVelocidad_Object: {fileID: 5106682206296108793, guid: b6024373a633c7d4f988bbd40ca05796,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

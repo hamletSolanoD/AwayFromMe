@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1007d5acca366f84aade913d46e2301d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pisoMesh: {fileID: 3270483312136581556, guid: 66a1a7ca66fe8f44dabdd318f6e83f20,
+      type: 3}
+  - paredMesh: {fileID: 3270483312136581556, guid: 66a1a7ca66fe8f44dabdd318f6e83f20,
+      type: 3}
+  - puertaExtensionMesh: {fileID: 8549786306756535344, guid: fb6b2fefd29dc9d41bc0c2eb69ecb493,
+      type: 3}
+  - puertaMesh: {fileID: 1940553709109708037, guid: 78045ff52d50fc7469bbdf8520d4bfe1,
+      type: 3}
+  - pisoCorredorMesh: {fileID: 2688932635804591392, guid: 0e1e277fa34ed454d8d3cb0c1348b69f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &679016255792059682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679016255792059692}
+  - component: {fileID: 679016255792059683}
+  m_Layer: 0
+  m_Name: Generador
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679016255792059692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679016255792059682}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &679016255792059683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679016255792059682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1007d5acca366f84aade913d46e2301d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  XCuadrantesSize: 10
+  YCuadrantesSize: 10
+  ZCuadrantesSize: 10
+  pisoMesh: {fileID: 8884027044080332418, guid: 2359c54a81d4962469908d6ea37288e7,
+    type: 3}
+  paredMesh: {fileID: 3270483312136581556, guid: 66a1a7ca66fe8f44dabdd318f6e83f20,
+    type: 3}
+  FobiaPobject: {fileID: 6879164394853524385, guid: f12097e975c66194ba7d376db70c304a,
+    type: 3}
+  puertaExtensionMesh: {fileID: 8549786306756535344, guid: fb6b2fefd29dc9d41bc0c2eb69ecb493,
+    type: 3}
+  EscalaDeImportacionPuertaExtension: 5
+  puertaMesh: {fileID: 1940553709109708037, guid: 78045ff52d50fc7469bbdf8520d4bfe1,
+    type: 3}
+  pisoCorredorMesh: {fileID: 2688932635804591392, guid: 0e1e277fa34ed454d8d3cb0c1348b69f,
+    type: 3}
+  recuerdosVida_Object: {fileID: 7420913050322393961, guid: 682848612e0a1b84b83f30aa7a1b7b18,
+    type: 3}
+  recuerdosFuerza_Object: {fileID: 1958752284657695366, guid: fa93f92577b6ef241ac1b8fa6dd2f8fd,
+    type: 3}
+  recuerdosVelocidad_Object: {fileID: 5106682206296108793, guid: b6024373a633c7d4f988bbd40ca05796,
+    type: 3}
+  ZonaSegura_Object: {fileID: 8971557404749850226, guid: f377990a5fad6e94cb4b17131f706c74,
+    type: 3}
+  recuerdosTrauma_Object: {fileID: 3069063442923703350, guid: 1d493877c7e8839479b2db35a21ff915,
+    type: 3}
+  SpawnerObject: {fileID: 6227256306327017852, guid: adb333fce7b8a7c409bb3b3b03c63efe,
+    type: 3}

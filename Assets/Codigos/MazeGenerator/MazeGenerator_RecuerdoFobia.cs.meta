@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0eb7715a3ca0814a8db17545664fdf7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ZonaSegura_Object: {fileID: 8971557404749850226, guid: f377990a5fad6e94cb4b17131f706c74,
+      type: 3}
+  - recuerdosTrauma_Object: {fileID: 3069063442923703350, guid: 1d493877c7e8839479b2db35a21ff915,
+      type: 3}
+  - FobiaParedPrefab: {fileID: 6879164394853524385, guid: f12097e975c66194ba7d376db70c304a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

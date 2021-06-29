@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64fb587c8a77b594388ce37826db69b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ZonaSegura_Object: {fileID: 8971557404749850226, guid: f377990a5fad6e94cb4b17131f706c74,
+      type: 3}
+  - paredMesh: {fileID: 3270483312136581556, guid: 66a1a7ca66fe8f44dabdd318f6e83f20,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
